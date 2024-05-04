@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Chris Graham"]
 description = "A Rust library for checking the non-negativity of values across various types."
 repository = "https://github.com/your_github/positivity"
-license = "MIT OR Apache-2.0"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
