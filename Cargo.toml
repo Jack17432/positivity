@@ -2,10 +2,15 @@
 name = "positivity"
 version = "1.0.0"
 edition = "2021"
-authors = ["Chris Graham"]
+authors = ["Chris Graham <ChrisGraham908@gmail.com"]
 description = "A Rust library for checking the non-negativity of values across various types."
-repository = "https://github.com/your_github/positivity"
+repository = "https://github.com/Jack17432/positivity"
 license = "MIT"
+license-file = "LICENSE"
+documentation = "https://docs.rs/positivity"
+readme = "README.md"
+keywords = ["order", "partial-order", "default", "generic"]
+categories = ["algorithms", "mathematics"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
