@@ -81,9 +81,9 @@ Prior to contributing, kindly peruse the [CONTRIBUTING.md](CONTRIBUTING.md) docu
 
 ## Legal and Licensing Considerations
 
-`positivity` is dual-licensed under the terms of both the MIT license and the Apache License (Version 2.0), offering a dual framework of legal protection and open-source commitment.
+`positivity` is dual-licensed under the terms of the MIT license, offering a framework of legal protection and open-source commitment.
 
-Refer to [LICENSE-APACHE](LICENSE-APACHE) and [LICENSE-MIT](LICENSE-MIT) for comprehensive legal texts.
+Refer to [LICENSE-MIT](LICENSE) for comprehensive legal texts.
 
 ## Custodianship and Authorship
 
